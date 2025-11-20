@@ -418,3 +418,9 @@ FodyWeavers.xsd
 *.msp
 
 .idea
+
+# SQLite dev databases
+discountdb
+discountdb-*
+*.sqlite
+*.sqlite3
